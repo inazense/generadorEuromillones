@@ -11,18 +11,20 @@ import claver.paules.euromillones.statics.Path;
 public class Request
 {
 	
+	/**
+	 * Download CSV from HTTP URL
+	 * @throws MalformedURLException
+	 * @throws IOException
+	 */
+	@SuppressWarnings("resource")
 	public void downloadCSV() throws MalformedURLException, IOException
 	{
-		// TODO: https://www.baeldung.com/java-download-file
-		BufferedInputStream buffer = new BufferedInputStream(new URL(Path.CSV_URL).openStream());
-		FileOutputStream output = new FileOutputStream(Path.CSV_NAME)
-		{
-			byte dataBuffer[] = new byte[1024];
-			int bytesRead;
-			while ((bytesRead = buffer.read(dataBuffer, 0, 1024)) != -1) {
-				output.write(dataBuffer, 0, bytesRead);
-		    }
-		}
+		BufferedInputStream inputStream = new BufferedInputStream(new URL(Path.CSV_URL).openStream());
+		FileOutputStream fileOS = new FileOutputStream(Path.CSV_NAME);
+		byte data[] = new byte[1024];
+	    int byteContent;
+	    while ((byteContent = inputStream.read(data, 0, 1024)) != -1) {
+	        fileOS.write(data, 0, byteContent);
+	    }
 	}
-
 }

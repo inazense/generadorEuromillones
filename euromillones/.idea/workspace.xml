@@ -23,22 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03c1676-e07a-4b4b-a4d9-42f159b8beec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/programandoapasitos/euromillones/utils/EuromillonesHandlerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/config/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/dao/Raffle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/dao/Raffle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/utils/EuromillonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/utils/EuromillonHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/utils/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/utils/Request.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/config/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/config/Config.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/dao/History.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/dao/History.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/dao/Raffle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/dao/Raffle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/dao/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/dao/Ticket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/utils/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/programandoapasitos/euromillones/utils/Request.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/programandoapasitos/euromillones/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/programandoapasitos/euromillones/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/programandoapasitos/euromillones/utils/RequestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/programandoapasitos/euromillones/utils/RequestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/euromillones-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/euromillones-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.programandoapasitos.euromillones.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.programandoapasitos.euromillones.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.programandoapasitos.euromillones.utils.RequestTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.programandoapasitos.euromillones.utils.RequestTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.programandoapasitos.euromillones.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.programandoapasitos.euromillones.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.programandoapasitos.euromillones.utils.RequestTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.programandoapasitos.euromillones.utils.RequestTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +66,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
   <component name="RunManager" selected="Application.App">
@@ -132,43 +128,46 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1600349204566">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1600349204566" />
-    <state width="1515" height="215" key="GridCell.Tab.0.bottom" timestamp="1600352305728">
+    <state width="1515" height="197" key="GridCell.Tab.0.bottom" timestamp="1600352868890">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="215" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600352305728" />
-    <state width="1515" height="215" key="GridCell.Tab.0.center" timestamp="1600352305727">
+    <state width="1515" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600352868890" />
+    <state width="1515" height="197" key="GridCell.Tab.0.center" timestamp="1600352868890">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="215" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600352305727" />
-    <state width="1515" height="215" key="GridCell.Tab.0.left" timestamp="1600352305727">
+    <state width="1515" height="197" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600352868890" />
+    <state width="1515" height="197" key="GridCell.Tab.0.left" timestamp="1600352868890">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="215" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600352305727" />
-    <state width="1515" height="215" key="GridCell.Tab.0.right" timestamp="1600352305727">
+    <state width="1515" height="197" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600352868890" />
+    <state width="1515" height="197" key="GridCell.Tab.0.right" timestamp="1600352868890">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="215" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600352305727" />
-    <state width="1515" height="215" key="GridCell.Tab.1.bottom" timestamp="1600352305535">
+    <state width="1515" height="197" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600352868890" />
+    <state width="1515" height="215" key="GridCell.Tab.1.bottom" timestamp="1600352535795">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="215" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600352305535" />
-    <state width="1515" height="215" key="GridCell.Tab.1.center" timestamp="1600352305535">
+    <state width="1515" height="215" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600352535795" />
+    <state width="1515" height="215" key="GridCell.Tab.1.center" timestamp="1600352535795">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="215" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1600352305535" />
-    <state width="1515" height="215" key="GridCell.Tab.1.left" timestamp="1600352305535">
+    <state width="1515" height="215" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1600352535795" />
+    <state width="1515" height="215" key="GridCell.Tab.1.left" timestamp="1600352535795">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="215" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1600352305535" />
-    <state width="1515" height="215" key="GridCell.Tab.1.right" timestamp="1600352305535">
+    <state width="1515" height="215" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1600352535795" />
+    <state width="1515" height="215" key="GridCell.Tab.1.right" timestamp="1600352535795">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="215" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1600352305535" />
+    <state width="1515" height="215" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1600352535795" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1600349818992">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

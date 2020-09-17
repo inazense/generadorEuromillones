@@ -1,4 +1,4 @@
-package com.programandoapasitos;
+package com.programandoapasitos.euromillones;
 
 /**
  * Hello world!

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c03c1676-e07a-4b4b-a4d9-42f159b8beec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/dao/History.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/dao/Raffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/dao/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/utils/CSVHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/utils/EuromillonHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/euromillones/utils/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/programandoapasitos/euromillones/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/programandoapasitos/euromillones/utils/CSVHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/programandoapasitos/euromillones/utils/RequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programandoapasitos/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/programandoapasitos/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/programandoapasitos/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/euromillones-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/euromillones-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.programandoapasitos.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.programandoapasitos.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/programandoapasitos/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hdNodb9kWuO8ovwU2UDtczgGe7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c03c1676-e07a-4b4b-a4d9-42f159b8beec" name="Default Changelist" comment="" />
+      <created>1600337184432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600337184432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1600338013561">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1600338013550" />
+    <state width="1515" height="199" key="GridCell.Tab.0.bottom" timestamp="1600338952427">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="199" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600338952427" />
+    <state width="1515" height="199" key="GridCell.Tab.0.center" timestamp="1600338952427">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="199" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600338952427" />
+    <state width="1515" height="199" key="GridCell.Tab.0.left" timestamp="1600338952426">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="199" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600338952426" />
+    <state width="1515" height="199" key="GridCell.Tab.0.right" timestamp="1600338952427">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="199" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600338952427" />
+    <state x="431" y="155" key="search.everywhere.popup" timestamp="1600337467170">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1600337467170" />
+  </component>
+</project>

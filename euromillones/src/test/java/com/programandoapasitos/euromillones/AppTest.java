@@ -1,4 +1,4 @@
-package com.programandoapasitos;
+package com.programandoapasitos.euromillones;
 
 import static org.junit.Assert.assertTrue;
 

@@ -2,9 +2,7 @@ package com.programandoapasitos.euromillones.utils;
 
 import com.programandoapasitos.euromillones.config.Config;
 
-import java.io.BufferedInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.net.MalformedURLException;
 import java.net.URL;
 
